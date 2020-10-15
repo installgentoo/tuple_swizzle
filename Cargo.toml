@@ -1,0 +1,9 @@
+[package]
+name = "tuple_swizzle"
+version = "1.0.0"
+authors = ["Alexander Drozdoff"]
+license = "MIT"
+
+[lib]
+name = "tuple_swizzle"
+path = "src/lib.rs"
