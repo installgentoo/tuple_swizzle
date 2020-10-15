@@ -1,8 +1,12 @@
 [package]
 name = "tuple_swizzle"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Alexander Drozdoff"]
+edition = "2018"
+description = "Adds swizzle operator to tuples"
 license = "MIT"
+repository = "https://github.com/installgentoo/tuple_swizzle"
+homepage = "https://github.com/installgentoo/tuple_swizzle"
 
 [lib]
 name = "tuple_swizzle"
